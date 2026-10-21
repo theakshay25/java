@@ -1,0 +1,10 @@
+Name: akshay
+Age: 21
+Gender: Male
+Date of Birth: 25-08-2005
+Address: pondy
+Phone: 9598460275
+Email: akakjdhfhtghg
+Qualification: ece
+Occupation: Student
+Nationality: Indian
